@@ -214,9 +214,22 @@
         "type": "nm"
     },
     "ntp": true,
-    "packages": [
-        "polybar"
-    ],
+    "plugin" : "https://raw.githubusercontent.com/Torxed/archinstall-aur/main/archinstall_aur/__init__.py",
+    "packages" : [
+        "neovim",
+        "wget",
+        "yay-bin",
+        "polybar",
+        "google-chrome",
+        "kitty",
+        "scrot",
+        "dunst",
+        "blueman",
+        "pulseaudio-bluetooth",
+        "rofi",
+        "unzip",
+        "fzf"
+    ]
     "parallel downloads": 0,
     "profile_config": {
         "gfx_driver": "All open-source",
