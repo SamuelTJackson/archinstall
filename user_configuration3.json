@@ -214,7 +214,7 @@
         "type": "nm"
     },
     "ntp": true,
-    "packages_aur" : [
+    "packages" : [
         "neovim",
         "wget",
         "curl",
@@ -235,7 +235,6 @@
         "zsh",
         "zsh-completions"
     ],
-    "plugin": "https://github.com/phisch/archinstall-aur/raw/master/archinstall-aur.py",
     "parallel downloads": 0,
     "profile_config": {
         "gfx_driver": "All open-source",
