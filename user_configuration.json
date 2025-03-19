@@ -235,7 +235,7 @@
         "tmux",
         "zsh",
         "zsh-completions"
-    ]
+    ],
     "parallel downloads": 0,
     "profile_config": {
         "gfx_driver": "All open-source",
