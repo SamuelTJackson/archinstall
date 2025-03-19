@@ -214,8 +214,7 @@
         "type": "nm"
     },
     "ntp": true,
-    "plugin" : "https://raw.githubusercontent.com/Torxed/archinstall-aur/main/archinstall_aur/__init__.py",
-    "packages" : [
+    "packages_aur" : [
         "neovim",
         "wget",
         "curl",
@@ -236,6 +235,7 @@
         "zsh",
         "zsh-completions"
     ],
+    "plugin": "https://github.com/phisch/archinstall-aur/raw/master/archinstall-aur.py",
     "parallel downloads": 0,
     "profile_config": {
         "gfx_driver": "All open-source",
