@@ -218,6 +218,7 @@
     "packages" : [
         "neovim",
         "wget",
+        "curl",
         "yay-bin",
         "polybar",
         "google-chrome",
@@ -228,7 +229,12 @@
         "pulseaudio-bluetooth",
         "rofi",
         "unzip",
-        "fzf"
+        "fzf",
+        "rofi-greenclip",
+        "ttf-dejavu",
+        "tmux",
+        "zsh",
+        "zsh-completions"
     ]
     "parallel downloads": 0,
     "profile_config": {
